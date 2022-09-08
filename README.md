@@ -1,4 +1,4 @@
-# BinaryClassificationUsingPycaret
+# Binary Classification Using Pycaret
 
 Problem Statement:
 Pick kaggle dataset and implement run and provide output of the colabs of pycaret. Use full automl capabilities of pycaret.
